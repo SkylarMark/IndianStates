@@ -7,4 +7,4 @@ If uploading to Firebase everything is ready you just have to add your firebase 
 
 and Run the script with `npm start`.
 
-Never used it on `Linux` or `MAC` so don't know about yarn.
+Never used it on `Linux` or `MAC` so don't know about `yarn`.
