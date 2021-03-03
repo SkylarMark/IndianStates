@@ -13,3 +13,7 @@ Depends Upon:
 [https://www.npmjs.com/package/node-xlsx](node-xlsx)
 
 `npm i node-xlsx`
+
+[https://www.npmjs.com/package/firebase](firebase)
+
+`npm install --save firebase`
